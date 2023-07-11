@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Otaviano+Venâncio;Eu+tenho+22+anos;euEstou+graduando+em+Análise+Desenvolvimento+De+Sistemas;Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Otaviano+Venâncio;Eu+tenho+22+anos;Estou+graduando+em+Análise+Desenvolvimento+De+Sistemas;Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Otaviano24&bg_color=0d1117&color=f5f5f5&line=ff0000&point=9b7d7d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
@@ -10,7 +10,7 @@
 </div>
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Otaviano24}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Otaviano24}/count.svg"/></p> 
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
