@@ -9,7 +9,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otaviano24&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
   <div align="center">
-<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Otaviano24}/count.svg" /></p> 
 <br>
 </div>
