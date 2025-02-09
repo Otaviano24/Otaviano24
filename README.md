@@ -9,7 +9,7 @@
 🔭 Sou recém-formado em Análise e Desenvolvimento de Sistemas, e estou em busca da minha primeira oportunidade profissional na área de programação. Tenho um forte desejo de enfrentar desafios no mercado de trabalho, desenvolver minhas habilidades e contribuir de maneira significativa para o crescimento da empresa.
 
 
-🌱 Atualmente estou estudando JavaScript e ReactJS.
+🌱 Atualmente estou estudando JavaScript e Angular.
 
 </div>
 
